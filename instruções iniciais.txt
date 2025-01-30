@@ -1,0 +1,7 @@
+importar bibliotecas:
+open cv
+imutils
+numpy
+turtle
+
+Video do programa em funcionamento anexado
