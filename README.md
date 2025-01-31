@@ -1,4 +1,3 @@
-# projeto-automacao-de-restaurante-python
 # Sistema de Automação do Restaurante Universitário da UFSC
 
 Este repositório contém o código-fonte para um sistema de **automação do restaurante universitário da UFSC**, desenvolvido como parte da disciplina de **Introdução à Engenharia de Controle e Automação**. O sistema utiliza as bibliotecas **NumPy**, **imutils** e **OpenCV** para automação de tarefas visuais, controle e processamento de imagens.
