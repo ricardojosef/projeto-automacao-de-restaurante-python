@@ -16,6 +16,7 @@ Python: Linguagem principal para o desenvolvimento do sistema.
 NumPy: Biblioteca para manipulação eficiente de arrays e matrizes, utilizada para cálculos e processamento de dados.
 imutils: Biblioteca para simplificação do uso de OpenCV, facilitando operações de processamento de imagens, como redimensionamento e rotação.
 OpenCV: Biblioteca de visão computacional para o processamento de imagens e vídeos, usada para monitorar o fluxo de usuários e contar itens no refeitório.
+Turtle: Biblioteca gráfica utilizada para visualização e desenho de formas simples e animações. No contexto deste projeto, Turtle foi utilizada para ilustrar conceitos e gerar representações gráficas de processos automatizados no sistema.
 
 ## 📚 Objetivos do Projeto
 Este projeto foi desenvolvido com os seguintes objetivos:
