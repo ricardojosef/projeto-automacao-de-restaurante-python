@@ -12,7 +12,7 @@ Este repositório contém:
 ## 🛠️ Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
--- Python: Linguagem principal para o desenvolvimento do sistema.
+-- **Python:** Linguagem principal para o desenvolvimento do sistema.
 -- NumPy: Biblioteca para manipulação eficiente de arrays e matrizes, utilizada para cálculos e processamento de dados.
 -- imutils: Biblioteca para simplificação do uso de OpenCV, facilitando operações de processamento de imagens, como redimensionamento e rotação.
 -- OpenCV: Biblioteca de visão computacional para o processamento de imagens e vídeos, usada para monitorar o fluxo de usuários e contar itens no refeitório.
